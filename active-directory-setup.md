@@ -49,7 +49,7 @@
 - Validated users and security groups
 
 ### Active Directory Users and Computers
-![Active Directory](Screenshots/Active%20Directory.jpeg)
+![Active Directory Users and Computers](Screenshots/active-directory.jpeg)
 
 ---
 
